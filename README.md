@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks for visiting my Git! 👋
 
 <!--
 **Bundara123/Bundara123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
