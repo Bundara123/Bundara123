@@ -1,4 +1,5 @@
 ### Thanks for visiting my Git! 👋
+[![Reuk Bundara's github stats](https://github-readme-stats.vercel.app/api?username=Bundara123)](https://github.com/Bundara123/github-readme-stats)
 
 <!--
 **Bundara123/Bundara123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
