@@ -12,8 +12,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-[![Reuk Bundara's github stats](https://github-readme-stats.vercel.app/api?username=Bundara123)](https://github.com/Bundara123/github-readme-stats)
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Bundara123&show_icons=true&hide_border=true" />
+
+</details>
+
 <br />
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bundara123)
