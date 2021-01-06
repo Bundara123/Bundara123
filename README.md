@@ -16,7 +16,6 @@
 <a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a>
 <a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;"></a>
 <a href="https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt" rel="nofollow"><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></p>
-
+</p>
 [![Reuk Bundara's github stats](https://github-readme-stats.vercel.app/api?username=Bundara123)](https://github.com/Bundara123/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bundara123)
