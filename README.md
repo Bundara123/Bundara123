@@ -22,4 +22,4 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bundara123)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bundara123&hide_border=true)
