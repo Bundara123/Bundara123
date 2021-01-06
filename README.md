@@ -18,4 +18,4 @@
 
 </details>
 
-### Thanks for visiting my Git!
+#### Thanks for visiting my Git!
